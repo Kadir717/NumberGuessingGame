@@ -83,9 +83,9 @@ Exception Handling	Error protection
 📸 Optional Preview
 You can add a console screenshot of the game here for a better visual:
 
-markdown
-Копировать код
-![Game Preview](preview.png)
+
+## 🎮 Game Preview
+<img src="screenshot.png" alt="Game Screenshot" width="600"/>
 👨‍💻 Author
 (Kadir717)
 📍 Tashkent, Uzbekistan
