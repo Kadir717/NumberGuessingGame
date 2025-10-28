@@ -1,4 +1,4 @@
-# Number Guessing Game í¾¯
+# Number Guessing Game ï¿½
 
 This is a simple Java console game where the player tries to guess a randomly generated number.
 You can use it to practice Java basics such as loops, conditionals, and random numbers.
@@ -13,5 +13,5 @@ You can use it to practice Java basics such as loops, conditionals, and random n
    java NumberGuessingGame
 
 ## Author
-í±¨â€í²» Abdulkadir Isikyildiz (Kadir717)
+ (Kadir717)
 
