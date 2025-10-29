@@ -100,3 +100,5 @@ If you enjoyed this project or found it useful, please consider starring the rep
 It helps me grow and continue creating open-source projects ❤️
 
 <p align="center"> <a href="https://github.com/Kadir717/NumberGuessingGame"> <img src="https://img.shields.io/github/stars/Kadir717/NumberGuessingGame?style=social" alt="GitHub Stars"> </a> </p> ```
+
+_Last updated: Oct 29, 2025_
